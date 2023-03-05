@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 영남대학교 컴퓨터공학과 4학년 박민기 입니다 👋
 
 <!--
 **mingki1242/mingki1242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>
+  my TectStack
