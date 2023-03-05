@@ -1,3 +1,4 @@
+<div align=center>
 ### 안녕하세요 영남대학교 컴퓨터공학과 4학년 박민기 입니다 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=300&section=header&text=Thank you for visiting&fontSize=90&fontColor=FFFFFF" />
 <!--
