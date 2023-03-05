@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 <h2>
   my TectStack
+  </h2>
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+[![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+  
