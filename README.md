@@ -1,6 +1,10 @@
 <div align=center>
+  
 ### 안녕하세요 영남대학교 컴퓨터공학과 4학년 박민기 입니다 👋
+  
 <img src="https://capsule-render.vercel.app/api?type=wave&color=32CD32&height=300&section=header&text=Thank you for visiting minki github profile!!&fontSize=90" />
+  
+  
 <!--
 **mingki1242/mingki1242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +21,11 @@ Here are some ideas to get you started:
 -->
 
 <h2>
-  my TectStack
+ ✨ My TectStack ✨
   </h2>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+  
+  🌱 I'm Studying 🌱
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+  
   
