@@ -2,7 +2,7 @@
   
 ### 안녕하세요 영남대학교 컴퓨터공학과 4학년 박민기 입니다 👋
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2F8D46&height=300&section=header&text=😲jjaegii😲&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F8D46&height=300&section=header&text=asd&fontSize=90&fontColor=FFFFFF" />
   
   
 <!--
