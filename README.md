@@ -1,8 +1,8 @@
 <div align=center>
-  
-### 안녕하세요 영남대학교 컴퓨터공학과 4학년 박민기 입니다 👋
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Minki's😄&fontSize=50&fontColor=FFFFFF" />
+<h1>  
+Thank you for visiting Minki's github profile 👋
+  </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Welcome😄&fontSize=50&fontColor=FFFFFF" />
   
   
 <!--
@@ -20,25 +20,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  영남대학교 컴퓨터공학 학부 4학년
+  
 <h2>
- ✨ My TectStack ✨
+ 🛠 My TectStack 🛠
   </h2>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
- <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=FireBase&logoColor=white">
- <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ&logoColor=white">
- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
- <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
- #FFCA28 파베
- #000000 intellij
- #5C2D91 visual
-  #F80000 oracle
+  
+  <h5>
+    ⭐ Language ⭐
+  </h5>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+  <h5>
+   🔥 IDE 🔥
+  </h5>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=Android_Studio&logoColor=white">
+ 
+  
+  <h5>
+   🌟 DB 🌟
+  </h5>
+  <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=FireBase&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
   
   
   
   <h2>
-    🌱 I'm Studying 🌱
+    📖I'm Studying 📖
   </h2>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
