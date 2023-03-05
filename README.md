@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <h2>
   my TectStack
   </h2>
-
+ <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
   
