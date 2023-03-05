@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <h2>
   my TectStack
   </h2>
- <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
   
