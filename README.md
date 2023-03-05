@@ -24,11 +24,17 @@ Here are some ideas to get you started:
  ✨ My TectStack ✨
   </h2>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+ #FFCA28 파베
+ #000000 
   
   <h2>
     🌱 I'm Studying 🌱
   </h2>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+  
   
   
