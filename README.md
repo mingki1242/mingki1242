@@ -20,7 +20,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  영남대학교 컴퓨터공학 학부 4학년
+  
+    😄 : 박민기
+    ⭐ : 99/01/07
+    👨‍🎓 : 영남대학교 컴퓨터공학전공 4학년 재학중
+    🏃‍♂ : 웹 백엔드 개발
+    🏠 : 대구 달서구
+  
+        
   
 <h2>
  🛠 My TectStack 🛠
