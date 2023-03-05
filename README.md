@@ -25,7 +25,10 @@ Here are some ideas to get you started:
   </h2>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
   
-  🌱 I'm Studying 🌱
+  <h2>
+    🌱 I'm Studying 🌱
+  </h2>
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
   
   
