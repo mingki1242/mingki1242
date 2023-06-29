@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     🏠 : 대구 달서구
   
         
-  </div>
+  
 <h2>
  🛠 My TechStack 🛠
   </h2>
@@ -79,7 +79,8 @@ Here are some ideas to get you started:
   </h5>
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-  
+
+  </div>
   
  
   
