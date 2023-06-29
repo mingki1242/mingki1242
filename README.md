@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align = "center">
   
 <h1>  
 Thank you for visiting Minki's github profile 👋
@@ -82,8 +82,7 @@ Here are some ideas to get you started:
   </h5>
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-
-  </div>
+</div>
   
  
   
