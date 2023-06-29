@@ -22,13 +22,17 @@ Here are some ideas to get you started:
 -->
 
 
-
+<h5>
     😄 : 박민기<br>
+  
     ⭐ : 99/01/07<br>
+    
     👨‍🎓 : 영남대학교 컴퓨터공학전공 4학년 재학중<br>
+    
     🏃‍♂ : 웹 백엔드 개발<br>
+    
     🏠 : 대구 달서구<br>
-
+</h5>
    
         
   
@@ -83,8 +87,7 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
 </div>
-sadknaklsdnl
-  
+
  
   
   
