@@ -1,4 +1,4 @@
-<div style=align-items: center; text-align: center;">
+<div align = "center">
   
 <h1>  
 Thank you for visiting Minki's github profile 👋
