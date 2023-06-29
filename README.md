@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div style=align-items: center; text-align: center;">
   
 <h1>  
 Thank you for visiting Minki's github profile 👋
