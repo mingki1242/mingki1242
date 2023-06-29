@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         
   
 <h2>
- 🛠 My TectStack 🛠
+ 🛠 My TechStack 🛠
   </h2>
   
   <h5>
@@ -38,9 +38,15 @@ Here are some ideas to get you started:
   </h5>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white">
+  
   <h5>
    🔥 IDE 🔥
   </h5>
+  
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ&logoColor=white">
@@ -53,15 +59,25 @@ Here are some ideas to get you started:
   </h5>
   <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=FireBase&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white" />
+  
+  <h5>
+    ⚡ FrameWork ⚡
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" />
+    
+  </h5>
+
   
   
-  
-  <h2>
+  <h5>
     📖I'm Studying 📖
-  </h2>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+  </h5>
   
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+  
+ 
   
   
   
