@@ -3,7 +3,7 @@
 Thank you for visiting Minki's github profile 👋
   </h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Welcome😄&fontSize=50&fontColor=FFFFFF" />
-  
+</div>
   
 <!--
 **mingki1242/mingki1242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<div align = center>
   😄 : 박민기
   ⭐ : 99/01/07
   👨‍🎓 : 영남대학교 컴퓨터공학전공 4학년 재학중
   🏃‍♂ : 웹 백엔드 개발
   🏠 : 대구 달서구
-  
+</div>
+   
         
   
 <h2>
