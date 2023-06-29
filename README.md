@@ -63,18 +63,22 @@ Here are some ideas to get you started:
   
   <h5>
     ⚡ FrameWork ⚡
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" />
-    
   </h5>
+   
+    
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" />
+    
+  
 
   
   
   <h5>
     📖I'm Studying 📖
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
   </h5>
+
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
   
   
  
