@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     🏠 : 대구 달서구
   
         
-  
+  </div>
 <h2>
  🛠 My TechStack 🛠
   </h2>
