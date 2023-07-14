@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## About Me
 <p>
     😄 : 박민기<br>
-    ⭐ : 99/01/07<br>
+    ⭐ : 1999/01/07<br>
     👨‍🎓 : 영남대학교 컴퓨터공학전공 4학년 재학중<br>
-    🏃‍♂ : 웹 백엔드 개발<br>
+    🏃‍♂ : 웹 백엔드 개발자<br>
     🏠 : 대구 달서구<br>
 </p>
    
