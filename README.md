@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 ## 🔭Channel Link🔭
 <p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> : <a href = "https://github.com/mingki1242/mingki1242/blob/main/README.md" >민기의 깃허브 바로가기 링크</a> <br>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/> : <a href = "https://velog.io/@mingki1242">민기의 개발 블로그 바로가기 링크</a> 
   
 </p>
 
@@ -84,6 +86,7 @@ Here are some ideas to get you started:
     📖I'm Studying 📖
   </h5>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+  <hr>
 </div>
 
  
