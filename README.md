@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 😄About Me😄
 <hr>
-<img src = "C:\Users\qkral\Desktop\취업준비\minki" width = 300px hieght = 300px /><br>
+<img src = "C:\Users\qkral\Desktop\취업준비\minki" /><br>
 <p>
     😄 : 박민기<br>
     ⭐ : 1999/01/07<br>
