@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     🏠 : 대구 달서구<br>
 </p>
 
-<hr>
+
 
 ## 🔭Channel Link🔭
 <p>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 </p>
 
-<hr>
+
 
 ## 🛠 My TechStack 🛠
   
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
     📖I'm Studying 📖
   </h5>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-  <hr>
+
 </div>
 
  
