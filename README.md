@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## 😄About Me😄
+<hr>
 <p>
     😄 : 박민기<br>
     ⭐ : 1999/01/07<br>
