@@ -1,6 +1,6 @@
 <div align = "center">
   
-<h1 font-family = "Baskerville">
+<h1 font-family = "Helvetica">
 👋 방문해주셔서 감사합니다 👋<br>
   <hr>
 안녕하십니까 Error(오류)를 즐기는 개발자 박민기 입니다
