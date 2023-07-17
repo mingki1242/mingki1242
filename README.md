@@ -1,7 +1,8 @@
 <div align = "center">
   
-<h1>
+<h1 font-family = "Baskerville">
 👋 방문해주셔서 감사합니다 👋<br>
+  <hr>
 안녕하십니까 Error(오류)를 즐기는 개발자 박민기 입니다
   </h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Welcome😄&fontSize=50&fontColor=FFFFFF" />
