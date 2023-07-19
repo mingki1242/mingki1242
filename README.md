@@ -3,7 +3,7 @@
 <h1 font-family = "Helvetica">
 👋 방문해주셔서 감사합니다 👋<br>
   <hr>
-안녕하십니까 책임있는 개발자 박민기 입니다
+안녕하십니까 책임감 있는 개발자 박민기 입니다
   </h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Welcome😄&fontSize=50&fontColor=FFFFFF" />
 
