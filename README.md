@@ -7,7 +7,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Welcome😄&fontSize=50&fontColor=FFFFFF" />
 
-<p font-size = 10>
+<p style="font-size: 10px; text-align: center; font-weight: bold;">
   
     컴퓨터 공학도 로써 사용자들의 만족 높은 서비스를 제공 하기 위해 최선을 다 하겠습니다
   
