@@ -17,6 +17,7 @@
   ### ✅언제나 배움을 갈구하고 위험을 감수하여 새로운 도전을 통해 성장하는 개발자가 되겠습니다
  
 <hr>
+
 <!--
 **mingki1242/mingki1242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
