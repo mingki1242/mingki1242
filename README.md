@@ -7,7 +7,8 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Welcome😄&fontSize=50&fontColor=FFFFFF" />
 
-<p>
+<p font-size = 10>
+  
     컴퓨터 공학도 로써 사용자들의 만족 높은 서비스를 제공 하기 위해 최선을 다 하겠습니다
   
     안녕하십니까 상호 존중하는 개발자 박민기 입니다
