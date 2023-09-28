@@ -10,7 +10,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Welcome😄&fontSize=50&fontColor=FFFFFF" />
 
-<p>
+<p font-family = "Helvetica">
   🌱안녕하십니까 상호 존중하는 개발자 박민기 입니다🌱
    ✅제가 맡는 모든 프로젝트를 주인의식을 가지고 임하겠습니다 
    ✅팀원간 상호존중과 배려를 바탕으로 아름다운 코드를 작성 하겠습니다
