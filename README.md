@@ -8,7 +8,7 @@
 </div> 
 
 <div align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Welcome😄&fontSize=50&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Welcome😄&fontSize=50&fontColor=FFFFFF" />
 
 
    <h2>🌱안녕하십니까 상호 존중하는 개발자 박민기 입니다🌱 </h2>
