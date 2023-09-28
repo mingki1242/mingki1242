@@ -5,8 +5,9 @@
 </h1>
  <h2>컴퓨터 공학도 로써 사용자들에게 만족 높은 가치를 제공 하기 위해 최선을 다 하겠습니다</h2>
 <br>
- 
-  
+</div> 
+
+<div align = "center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😄Welcome😄&fontSize=50&fontColor=FFFFFF" />
 
 
@@ -16,7 +17,7 @@
    <h2>✅언제나 배움을 갈구하고 위험을 감수하여 새로운 도전을 통해 성장하는 개발자가 되겠습니다</h2>
 
    
- 
+</div>
 <hr>
 
 <!--
